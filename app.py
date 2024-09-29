@@ -15,7 +15,7 @@ st.set_page_config(
 # Main page heading
 # st.title("Tomato Detection and Classification")
 st.markdown(
-    "<h1 style='font-size: 60px; color: tomato;'>Tomato Detection and Classification</h1>", 
+    "<h1 style='font-size: 60px; color: tomato;'>Intelli-Fresh Tomato Detection</h1>", 
     unsafe_allow_html=True
 )
 
